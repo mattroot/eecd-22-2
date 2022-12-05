@@ -1,0 +1,15 @@
+(kicad_sch (version 20211123) (generator eeschema)
+
+  (uuid ab0b3acb-e589-4996-9f1f-a1a1c7cf22c9)
+
+  (paper "A4")
+
+  (lib_symbols
+  )
+
+
+  (hierarchical_label "Heater_Power" (shape input) (at 127 77.47 0)
+    (effects (font (size 1.27 1.27)) (justify left))
+    (uuid 67e64a37-405a-470b-afef-fbd40d24d540)
+  )
+)
