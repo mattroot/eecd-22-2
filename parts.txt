@@ -7,8 +7,7 @@ ac2dc 3.3v: https://www.tme.eu/pl/details/ame1-3.3sjz/przetwornice-ac-dc-na-pcb/
 https://www.tme.eu/Document/da6a945b3d91dfeb6723a9932245271a/kam15.pdf
 
 touchscreen to pcb connection:
-https://www.tme.eu/en/details/08fmz-bt/connectors-ffc-fpc-1-00mm/jst/08fmz-bt-lf-sn/
-https://www.tme.eu/en/details/2-1734839-9/connectors-ffc-fpc-0-5mm/te-connectivity/
+https://www.tme.eu/en/details/zif0540dh-cf25/displays-accessories/riverdi/
 
 electromagnet connection: screw terminal
 
