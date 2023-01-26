@@ -2,17 +2,15 @@ touchscreen: https://www.tme.eu/pl/details/4dlcd-24320240-ci/wyswietlacze-lcd-gr
 
 mcu: esp32 s3 wroom 2: https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-2_datasheet_en.pdf
 
-ac2dc 5v: https://www.tme.eu/pl/details/ac15w85-265_5/przetwornice-ac-dc-na-pcb/chinfa-electronics/kam1505/
-ac2dc 3.3v: https://www.tme.eu/pl/details/ame1-3.3sjz/przetwornice-ac-dc-na-pcb/aimtec/
-https://www.tme.eu/Document/da6a945b3d91dfeb6723a9932245271a/kam15.pdf
+ac2dc 12v: https://www.tme.eu/pl/details/irm-20-12/zasilacze-do-wbudowania/mean-well/ 
+ac2dc 3.3v: https://www.tme.eu/pl/details/irm-10-3.3/zasilacze-do-wbudowania/mean-well/
 
 touchscreen to pcb connection:
 https://www.tme.eu/en/details/zif0540dh-cf25/displays-accessories/riverdi/
 
-electromagnet connection: screw terminal
-
 heater connection: screw terminal
+uart connection: 2.54mm header
 
-led strip connection: just pins led: WS2812B https://www.tme.eu/pl/details/ws2812b/diody-led-smd-kolorowe/worldsemi/
+led strip connection: WS2812B (TBD) using screw terminal 
 
 on off switch: https://www.tme.eu/pl/details/ae-h8553vbnac/przelaczniki-typu-rocker/bulgin/h8553vbbg3076w/

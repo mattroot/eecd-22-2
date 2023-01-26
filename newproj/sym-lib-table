@@ -1,3 +1,2 @@
 (sym_lib_table
-  (lib (name "Conn_Display")(type "KiCad")(uri "${KIPRJMOD}/Conn_Display.kicad_sym")(options "")(descr ""))
 )
